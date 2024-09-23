@@ -1,0 +1,23 @@
+Linux Commands:
+cd- I used cd to change directories
+ls- I used ls to list every item in the directory, helping to vizualize everything
+-ltr- I found very useful for organizing the ls list in a readable way, showing the most recently edited file first
+mkdir- This was used to create new directories
+
+Git Commands:
+git status- Tells the current status of a document, if it has been modified, pushed, commited locally
+git add- add one or more files to list of files to be updated during next commit
+git commit- apply local changes to selected files, and adds a commented desprciption of changes too
+git push- Applies those changes to original git repo
+git clone- Copy a repository locally and edit it without changing the original files
+git config- Tells git who is using/signing in
+
+Syllabus:
+The rules for collaboration are; if we collaborate with anyone on an assignment we must mention them by name in a text document that is submitted alongside out assignment.
+
+The rules for consulting external references are; we can access anything we find online provided it isn't generated using AI tools, and any code we find is not directly copied. Example should be put away during actual coding. Then any examples must be listed in a separate document submitted with the assignment.
+
+The penalty for submitting late assignments is; Late assignments are accepted but there is a 10% penalty for every day it is late.
+
+There is no direct penalty for missing class, only missing what was taught in class and potentially falling behind in understanding material
+hw2-MalikWilliamsSCSU
